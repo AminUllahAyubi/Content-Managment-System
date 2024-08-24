@@ -1,2 +1,2 @@
 # Content-Managment-System
-CMS project enable admin to post and manages content for user to see. 
+CMS project is fully crud system build which enable admin to perform crud operation and enable user to see that post.
